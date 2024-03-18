@@ -1,2 +1,4 @@
 
 maps/MAP01.wad
+*.gitignore
+*.gitattributes
